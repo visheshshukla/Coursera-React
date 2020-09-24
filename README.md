@@ -1,4 +1,4 @@
-# Coursera ReactJS
+# Coursera React
 
 **This Repository Contains The Work Associated With Front-End Web Development With React Course.**
 
